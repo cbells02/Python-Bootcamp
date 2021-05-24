@@ -1,0 +1,15 @@
+X = 3 # learning jupyter notebook shift + enter
+
+print(X)
+
+
+C= 9
+
+print(C)
+
+print(X < C)
+
+
+
+
+print ("hello world")
